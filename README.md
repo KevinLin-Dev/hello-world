@@ -1,2 +1,2 @@
 # hello-world-template
-The template repository for the hello-world course on Learning Lab.
+This is 1st time to test commit function.
